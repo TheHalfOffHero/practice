@@ -1,0 +1,1 @@
+This repo will contain any random scripts I spin up for practice with different concepts. It ill likely be random collections so I can pick up where I left off when away from my desk. 
